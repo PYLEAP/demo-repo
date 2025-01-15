@@ -4,7 +4,6 @@ Some descriptions!
 
 # GYATT
 
-## YEAH!
-dggdg
+## DAY ONE: LEARNING HOW TO USE GITHUB
 
-sgjsgs
+FREE CODE CAMP
